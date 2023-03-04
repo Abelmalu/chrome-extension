@@ -1,0 +1,39 @@
+BODY{
+    margin:0;
+     padding:10px;
+   min-width:400px;
+}
+input{
+    width:100%;
+    padding-left:10x;
+    padding-right:10px;
+    box-sizing:border-box;
+    border:10x solid #5f9451;
+   height:30px;
+}
+button{
+    background-color: #5f9451;
+    color:white;
+    padding:10px 20px;
+    border:none;
+    font-weight:bold;
+    margin-bottom:4px;
+}
+ul{
+
+list-style-type:none;
+color:#5f9451;
+
+}
+li{
+
+padding:2px;
+
+
+}
+li a{
+    color:#5f9451;
+    text-decoration: none;
+
+
+}
